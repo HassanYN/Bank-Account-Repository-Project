@@ -669,7 +669,7 @@ def main():
     
     if choice.upper() == "L": #if the input is eaither l or L it will start the login function
         print("\nLoading ...")
-        sleep(3)
+        sleep(3)    
         login()
     elif choice.upper() == "S": #if the input is eaither s or S it will start the create function
         print("\nLoading ...")
