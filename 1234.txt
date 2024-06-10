@@ -1,0 +1,15 @@
+Card Number: 1234
+PIN: 1234
+Email: s201911111@kfupm.edu.sa
+Balance: 40.00
+Borrowed Funds: 0.00
+
+=== OPERATIONS:
+login - Date: Mon Jun 10 15:06:08 2024
+login - Date: Mon Jun 10 15:07:40 2024
+Deposit: 100.00 - Date: Mon Jun 10 15:08:12 2024
+Withdraw: 90.00 - Date: Mon Jun 10 15:08:47 2024
+Borrow: 50.00 - Date: Mon Jun 10 15:10:04 2024
+Deposit: 50.00 - Date: Mon Jun 10 15:10:04 2024
+Deposit: 30.00 - Date: Mon Jun 10 15:10:39 2024
+Pay back: 50.00 - Date: Mon Jun 10 15:11:07 2024
